@@ -131,4 +131,18 @@ p {
   .p-2 {
     padding: 0 !important;
   }
+  .project-img {
+    display: none;
+  }
+  .project-title {
+    text-align: center;
+  }
+  .project-description {
+    text-align: center;
+  }
+  .primary-link {
+    margin: 0 30px;
+    display: block;
+    text-align: center;
+  }
 }
